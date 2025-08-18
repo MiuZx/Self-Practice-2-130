@@ -1,0 +1,3 @@
+การget idจากhtmlโดย getElementById("idจากหน้าhtml")
+การใช้eval คือการแปลงstringกลายเป็นcodeทีคำนวนได้
+และการhandling errors โดยใช้try catch
