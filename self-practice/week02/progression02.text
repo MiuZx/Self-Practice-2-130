@@ -1,0 +1,3 @@
+เรียนรู้การใช้ปุ่มรับค่าและเพิ่มfunction .addEventListener('ใส่event',func) 
+ใช้querySelector('')เพื่อเลือกselector แบบเดียวกับ CSS 
+Math.floor(xxx)  ใช้ปัดเศษ ลง
